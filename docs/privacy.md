@@ -1,16 +1,16 @@
-# Informativa sulla Privacy dell'Applicazione "[Nome della tua App]"
+# Informativa sulla Privacy dell'Applicazione "Bilancio Personale"
 
-Ultimo aggiornamento: [Data di oggi, es. 23 Maggio 2026]
+Ultimo aggiornamento: 23 Maggio 2026
 
-L'applicazione "[Nome della tua App]" (di seguito "Applicazione") è sviluppata e gestita da [Il tuo Nome e Cognome], in qualità di Titolare del Trattamento. La presente informativa descrive le modalità di gestione dei dati relativi agli utenti che installano e utilizzano l'Applicazione, in conformità al Regolamento Generale sulla Protezione dei Dati (GDPR - Regolamento UE 2016/679) e alla normativa italiana vigente.
+L'applicazione "Bilancio Personale" (di seguito "Applicazione") è sviluppata e gestita da Albokerne, in qualità di Titolare del Trattamento. La presente informativa descrive le modalità di gestione dei dati relativi agli utenti che installano e utilizzano l'Applicazione, in conformità al Regolamento Generale sulla Protezione dei Dati (GDPR - Regolamento UE 2016/679) e alla normativa italiana vigente.
 
 ---
 
 ### 1. Titolare del Trattamento
 Il Titolare del Trattamento è:
-* **Nome e Cognome:** [Il tuo Nome e Cognome]
-* **Sede/Contatto geografico:** [Tua Città / Italia]
-* **Email di contatto:** [Tua Email dedicata al supporto/privacy]
+* **Nome e Cognome:** Giovanni Rizzo
+* **Sede/Contatto geografico:** Milano / Italia
+* **Email di contatto:** albokerne@gmail.com
 
 ---
 
@@ -57,7 +57,6 @@ Tuttavia, poiché i dati raccolti tramite Firebase Analytics sono pseudonimi e n
 
 L'utente può esercitare il proprio controllo direttamente:
 1. Negando o revocando il consenso all'interno del menu Impostazioni dell'Applicazione.
-2. Inviando una mail al Titolare all'indirizzo: **[Tua Email]**.
 
 Gli utenti hanno inoltre il diritto di proporre reclamo all'Autorità Garante per la Protezione dei Dati Personali italiana (www.garanteprivacy.it).
 
